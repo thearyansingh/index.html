@@ -1,0 +1,177 @@
+.upperbox{
+    width:1550.5;
+    height:600px;
+    background-image:url(aaa.jpeg);
+
+    background-repeat: no-repeat;
+}
+#pagename{
+     background-color:black;
+     color:white;
+    position:absolute;
+    left:640px;
+    top:200px;
+    font-size:55px;
+    font-family:serif;
+    border:solid white;
+    border-radius:5px;
+    padding:20px;
+    
+     
+
+}
+.searching{
+    position:absolute;
+    top:400px;
+    left:500px
+}
+.middlebox{
+    width:1550.5;
+    height:600px;
+    background-color: FF8D29;
+
+}
+.tef{
+    width: 300px;
+    height: 80px;
+    position:relative;
+    top:100px;
+left:100px;
+border-radius:10px;
+background-color: white;
+padding: 10px;
+margin:0px;
+font-family: serif;
+font-size: 18px;
+color: black;
+
+
+    
+}
+.ted{
+    width: 300px;
+    height: 80px;
+    position:relative;
+    bottom:228px;
+left:620px;
+border-radius:10px;
+background-color: white;
+padding: 10px;
+margin:0px;
+font-family: serif ;
+font-size: 18px;
+color:black
+}
+.tec{
+    width: 300px;
+    height: 80px;
+    position:relative;
+bottom:558px;
+left:1100px;
+border-radius:10px;
+background-color: white;
+padding: 10px;
+margin:0px;
+font-family:  serif;
+font-size: 18px;
+color:black
+}
+.nextbox{
+    width:1550.5;
+    height:600px;
+    background-color:FFEF82 ;
+
+}
+.tab{
+    width:1200;
+    height:450px;
+    background-color: white;
+    position:absolute;
+    top: 1370px;
+    right:150px
+
+
+}
+.app{
+    position:relative;
+    bottom: 350px;
+    left: 550px;
+    font-family: ariel;
+    font-size:50px;
+    color:black;
+    width: 750px;
+}
+.opt{
+    position:absolute;
+    bottom:300px;
+    left:550px;
+}
+.search{
+    position:absolute;
+    bottom: 170px;
+    left:535px;
+}
+.email{
+    position:absolute;
+    bottom:250;
+    left:555px;
+}
+.mob{
+    position:absolute;
+    bottom:250;
+    left:625;
+}
+.finalpage{
+    width:1550.5;
+    height:400px;
+    background-color:rgb(35, 31, 31);
+
+}
+.last{
+    color:white;
+    position:absolute;
+    top:2000;
+    left:150px;
+}
+.bottom{
+    color:white;
+    font-size: 40px;
+    font-family:serif;
+    position:absolute;
+    top: 1930px;
+    left: 160px;
+
+}
+.down{
+    color:white;
+    font-size: 18;
+    font-family: ariel;
+    position: absolute;
+    top: 1940px;
+    left: 900px;
+}
+.social{
+    color:white;
+    font-size: 18;
+    font-family: ariel;
+    position: absolute;
+    top: 1940px;
+    left: 1200px;
+}
+.second{
+    color:white;
+    position:absolute;
+    top:2000;
+    left:550px;
+    
+}
+.help{
+    color:white;
+    font-size: 30;
+    font-family: ariel;
+    position: absolute;
+    top: 1940px;
+    left: 570px;
+}
+
+
